@@ -1,0 +1,16 @@
+Resultados SSL para cmbrown.com.ar
+Fecha: Tue Apr 28 13:50:02 UTC 2026
+DNS usado: 8.8.8.8
+Subdominios encontrados: 2
+============================================================
+Host: www.cmbrown.com.ar
+Estado: [OK_54d]
+IP: 200.59.147.119
+subject=CN=cmbrown.com.ar
+issuer=C=US, O=Let's Encrypt, CN=R13
+notAfter=Jun 21 14:10:32 2026 GMT
+------------------------------------------------------------
+Host: autodiscover.cmbrown.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 190.216.66.228
+------------------------------------------------------------

@@ -1,0 +1,19 @@
+Resultados SSL para opticaconecta.com.ar
+Fecha: Tue Apr 28 13:54:50 UTC 2026
+DNS usado: 8.8.8.8
+Subdominios encontrados: 2
+============================================================
+Host: store.opticaconecta.com.ar
+Estado: [OK_52d]
+IP: 35.199.81.250
+subject=CN=opticaconecta.com.ar
+issuer=C=US, O=Let's Encrypt, CN=R13
+notAfter=Jun 19 18:49:14 2026 GMT
+------------------------------------------------------------
+Host: www.opticaconecta.com.ar
+Estado: [OK_52d]
+IP: opticaconecta.com.ar.
+subject=CN=opticaconecta.com.ar
+issuer=C=US, O=Let's Encrypt, CN=R13
+notAfter=Jun 19 18:49:14 2026 GMT
+------------------------------------------------------------

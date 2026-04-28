@@ -1,0 +1,11 @@
+Resultados SSL para osprogmed.ar
+Fecha: Tue Apr 28 13:55:22 UTC 2026
+DNS usado: 8.8.8.8
+Subdominios encontrados: 2
+============================================================
+Host: mail.osprogmed.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: mx1.osprogmed.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------

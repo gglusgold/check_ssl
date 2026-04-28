@@ -1,0 +1,11 @@
+Resultados SSL para tubeneficio.com.ar
+Fecha: Tue Apr 28 14:01:05 UTC 2026
+DNS usado: 8.8.8.8
+Subdominios encontrados: 2
+============================================================
+Host: mail.tubeneficio.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: www.tubeneficio.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------

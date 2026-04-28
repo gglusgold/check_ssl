@@ -1,0 +1,2 @@
+mail.osprogmed.ar
+mx1.osprogmed.ar

@@ -1,0 +1,58 @@
+Resultados SSL para osprogmed.com.ar
+Fecha: Tue Apr 28 13:55:53 UTC 2026
+DNS usado: 8.8.8.8
+Subdominios encontrados: 8
+============================================================
+Host: cpanel.osprogmed.com.ar
+Estado: [OK_47d]
+IP: 192.185.21.104
+subject=CN=cpcalendars.osprogmed.com.ar
+issuer=C=US, O=Let's Encrypt, CN=R13
+notAfter=Jun 14 17:19:17 2026 GMT
+------------------------------------------------------------
+Host: cpcalendars.osprogmed.com.ar
+Estado: [OK_47d]
+IP: 192.185.21.104
+subject=CN=cpcalendars.osprogmed.com.ar
+issuer=C=US, O=Let's Encrypt, CN=R13
+notAfter=Jun 14 17:19:17 2026 GMT
+------------------------------------------------------------
+Host: cpcontacts.osprogmed.com.ar
+Estado: [OK_47d]
+IP: 192.185.21.104
+subject=CN=cpcalendars.osprogmed.com.ar
+issuer=C=US, O=Let's Encrypt, CN=R13
+notAfter=Jun 14 17:19:17 2026 GMT
+------------------------------------------------------------
+Host: mail.osprogmed.com.ar
+Estado: [OK_47d]
+IP: osprogmed.com.ar.
+subject=CN=cpcalendars.osprogmed.com.ar
+issuer=C=US, O=Let's Encrypt, CN=R13
+notAfter=Jun 14 17:19:17 2026 GMT
+------------------------------------------------------------
+Host: webdisk.osprogmed.com.ar
+Estado: [OK_47d]
+IP: 192.185.21.104
+subject=CN=cpcalendars.osprogmed.com.ar
+issuer=C=US, O=Let's Encrypt, CN=R13
+notAfter=Jun 14 17:19:17 2026 GMT
+------------------------------------------------------------
+Host: webmail.osprogmed.com.ar
+Estado: [OK_47d]
+IP: 192.185.21.104
+subject=CN=cpcalendars.osprogmed.com.ar
+issuer=C=US, O=Let's Encrypt, CN=R13
+notAfter=Jun 14 17:19:17 2026 GMT
+------------------------------------------------------------
+Host: www.osprogmed.com.ar
+Estado: [OK_47d]
+IP: osprogmed.com.ar.
+subject=CN=cpcalendars.osprogmed.com.ar
+issuer=C=US, O=Let's Encrypt, CN=R13
+notAfter=Jun 14 17:19:17 2026 GMT
+------------------------------------------------------------
+Host: autodiscover.osprogmed.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: autodiscover.outlook.com.
+------------------------------------------------------------

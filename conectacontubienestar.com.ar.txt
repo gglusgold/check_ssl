@@ -1,0 +1,12 @@
+Resultados SSL para conectacontubienestar.com.ar
+Fecha: Tue Apr 28 13:50:45 UTC 2026
+DNS usado: 8.8.8.8
+Subdominios encontrados: 1
+============================================================
+Host: www.conectacontubienestar.com.ar
+Estado: [OK_86d]
+IP: conectacontubienestar.com.ar.
+subject=CN=amceferino.com.ar
+issuer=C=US, O=Let's Encrypt, CN=R12
+notAfter=Jul 24 10:40:50 2026 GMT
+------------------------------------------------------------

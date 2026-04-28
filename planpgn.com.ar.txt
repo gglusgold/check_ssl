@@ -1,0 +1,58 @@
+Resultados SSL para planpgn.com.ar
+Fecha: Tue Apr 28 13:56:24 UTC 2026
+DNS usado: 8.8.8.8
+Subdominios encontrados: 8
+============================================================
+Host: cpanel.planpgn.com.ar
+Estado: [OK_49d]
+IP: planpgn.com.ar.
+subject=CN=cpcontacts.planpgn.com.ar
+issuer=C=US, O=Let's Encrypt, CN=R12
+notAfter=Jun 16 17:16:54 2026 GMT
+------------------------------------------------------------
+Host: cpcalendars.planpgn.com.ar
+Estado: [OK_49d]
+IP: 192.185.21.104
+subject=CN=cpcontacts.planpgn.com.ar
+issuer=C=US, O=Let's Encrypt, CN=R12
+notAfter=Jun 16 17:16:54 2026 GMT
+------------------------------------------------------------
+Host: cpcontacts.planpgn.com.ar
+Estado: [OK_49d]
+IP: 192.185.21.104
+subject=CN=cpcontacts.planpgn.com.ar
+issuer=C=US, O=Let's Encrypt, CN=R12
+notAfter=Jun 16 17:16:54 2026 GMT
+------------------------------------------------------------
+Host: mail.planpgn.com.ar
+Estado: [OK_49d]
+IP: 192.185.21.104
+subject=CN=cpcontacts.planpgn.com.ar
+issuer=C=US, O=Let's Encrypt, CN=R12
+notAfter=Jun 16 17:16:54 2026 GMT
+------------------------------------------------------------
+Host: webdisk.planpgn.com.ar
+Estado: [OK_49d]
+IP: 192.185.21.104
+subject=CN=cpcontacts.planpgn.com.ar
+issuer=C=US, O=Let's Encrypt, CN=R12
+notAfter=Jun 16 17:16:54 2026 GMT
+------------------------------------------------------------
+Host: webmail.planpgn.com.ar
+Estado: [OK_49d]
+IP: planpgn.com.ar.
+subject=CN=cpcontacts.planpgn.com.ar
+issuer=C=US, O=Let's Encrypt, CN=R12
+notAfter=Jun 16 17:16:54 2026 GMT
+------------------------------------------------------------
+Host: www.planpgn.com.ar
+Estado: [OK_49d]
+IP: planpgn.com.ar.
+subject=CN=cpcontacts.planpgn.com.ar
+issuer=C=US, O=Let's Encrypt, CN=R12
+notAfter=Jun 16 17:16:54 2026 GMT
+------------------------------------------------------------
+Host: autodiscover.planpgn.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: autodiscover.outlook.com.
+------------------------------------------------------------

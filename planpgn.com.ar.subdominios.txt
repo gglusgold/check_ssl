@@ -1,0 +1,8 @@
+autodiscover.planpgn.com.ar
+cpanel.planpgn.com.ar
+cpcalendars.planpgn.com.ar
+cpcontacts.planpgn.com.ar
+mail.planpgn.com.ar
+webdisk.planpgn.com.ar
+webmail.planpgn.com.ar
+www.planpgn.com.ar

@@ -1,0 +1,15 @@
+Resultados SSL para pmbeneficios.com.ar
+Fecha: Tue Apr 28 13:56:56 UTC 2026
+DNS usado: 8.8.8.8
+Subdominios encontrados: 2
+============================================================
+Host: mail.pmbeneficios.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: www.pmbeneficios.com.ar
+Estado: [OK_86d]
+IP: 144.202.6.136
+subject=CN=amceferino.com.ar
+issuer=C=US, O=Let's Encrypt, CN=R12
+notAfter=Jul 24 10:40:50 2026 GMT
+------------------------------------------------------------

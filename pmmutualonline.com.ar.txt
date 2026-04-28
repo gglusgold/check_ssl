@@ -1,0 +1,12 @@
+Resultados SSL para pmmutualonline.com.ar
+Fecha: Tue Apr 28 13:57:27 UTC 2026
+DNS usado: 8.8.8.8
+Subdominios encontrados: 1
+============================================================
+Host: mail.pmmutualonline.com.ar
+Estado: [OK_56d]
+IP: 192.185.21.104
+subject=CN=pmmutualonline.com.ar
+issuer=C=US, O=Let's Encrypt, CN=R12
+notAfter=Jun 23 17:19:19 2026 GMT
+------------------------------------------------------------

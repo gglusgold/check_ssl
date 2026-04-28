@@ -1,0 +1,116 @@
+Resultados SSL para programasmedicos.com.ar
+Fecha: Tue Apr 28 13:59:01 UTC 2026
+DNS usado: 8.8.8.8
+Subdominios encontrados: 26
+============================================================
+Host: adherentes.programasmedicos.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: cenmed.programasmedicos.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: centromedicocanning.programasmedicos.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: osprogmed.programasmedicos.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: pgnsalud.programasmedicos.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: planpgn.programasmedicos.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: progmed.programasmedicos.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: s4consultores.programasmedicos.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: www.adherentes.programasmedicos.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: www.cenmed.programasmedicos.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: www.centromedicocanning.programasmedicos.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: www.osprogmed.programasmedicos.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: www.pgnsalud.programasmedicos.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: www.planpgn.programasmedicos.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: www.pmmutualonline.programasmedicos.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: www.progmed.programasmedicos.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: www.s4consultores.programasmedicos.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: webmail.programasmedicos.com.ar
+Estado: [OK_55d]
+IP: 192.185.21.104
+subject=CN=webmail.programasmedicos.com.ar
+issuer=C=US, O=Let's Encrypt, CN=R13
+notAfter=Jun 22 17:25:08 2026 GMT
+------------------------------------------------------------
+Host: www.webmail.programasmedicos.com.ar
+Estado: [OK_55d]
+IP: 192.185.21.104
+subject=CN=webmail.programasmedicos.com.ar
+issuer=C=US, O=Let's Encrypt, CN=R13
+notAfter=Jun 22 17:25:08 2026 GMT
+------------------------------------------------------------
+Host: cpanel.programasmedicos.com.ar
+Estado: [OK_84d]
+IP: 192.185.21.104
+subject=CN=cpcontacts.programasmedicos.com.ar
+issuer=C=US, O=Let's Encrypt, CN=R12
+notAfter=Jul 21 17:27:15 2026 GMT
+------------------------------------------------------------
+Host: cpcalendars.programasmedicos.com.ar
+Estado: [OK_84d]
+IP: 192.185.21.104
+subject=CN=cpcontacts.programasmedicos.com.ar
+issuer=C=US, O=Let's Encrypt, CN=R12
+notAfter=Jul 21 17:27:15 2026 GMT
+------------------------------------------------------------
+Host: cpcontacts.programasmedicos.com.ar
+Estado: [OK_84d]
+IP: 192.185.21.104
+subject=CN=cpcontacts.programasmedicos.com.ar
+issuer=C=US, O=Let's Encrypt, CN=R12
+notAfter=Jul 21 17:27:15 2026 GMT
+------------------------------------------------------------
+Host: mail.programasmedicos.com.ar
+Estado: [OK_84d]
+IP: programasmedicos.com.ar.
+subject=CN=cpcontacts.programasmedicos.com.ar
+issuer=C=US, O=Let's Encrypt, CN=R12
+notAfter=Jul 21 17:27:15 2026 GMT
+------------------------------------------------------------
+Host: webdisk.programasmedicos.com.ar
+Estado: [OK_84d]
+IP: 192.185.21.104
+subject=CN=cpcontacts.programasmedicos.com.ar
+issuer=C=US, O=Let's Encrypt, CN=R12
+notAfter=Jul 21 17:27:15 2026 GMT
+------------------------------------------------------------
+Host: www.programasmedicos.com.ar
+Estado: [OK_84d]
+IP: programasmedicos.com.ar.
+subject=CN=cpcontacts.programasmedicos.com.ar
+issuer=C=US, O=Let's Encrypt, CN=R12
+notAfter=Jul 21 17:27:15 2026 GMT
+------------------------------------------------------------
+Host: autodiscover.programasmedicos.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: autodiscover.outlook.com.
+------------------------------------------------------------
